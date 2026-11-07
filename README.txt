@@ -1,9 +1,11 @@
-MENTE EM AÇÃO JOVEM — PRIMEIRA VERSÃO INTEGRADA
+MENTE EM AÇÃO JOVEM — EXPEDIÇÃO 420
 
-1. Extraia o ZIP.
-2. Abra index.html em um navegador moderno para testar as 21 fases.
-3. Para instalar como aplicativo web no celular, publique os arquivos em hospedagem HTTPS (ex.: GitHub Pages). Depois, no navegador do celular, use a opção Adicionar à tela inicial / Instalar aplicativo, quando disponível.
-4. O progresso é guardado apenas no navegador em que o aplicativo foi usado. Não há cadastro, banco de dados ou coleta de dados pessoais.
-5. Esta versão é um PWA inicial, NÃO é um APK Android nem um arquivo iOS pronto para publicação nas lojas. Para lojas será necessário empacotamento, ícones adequados, testes e atendimento às políticas aplicáveis.
-6. Os links de imagens fornecidos como referências não foram incorporados: são de terceiros e podem ter restrições de direitos autorais.
-7. O conteúdo de PNL é educativo e não substitui acompanhamento profissional.
+7 módulos, 10 situações por módulo, 6 mecânicas por situação = 420 desafios interativos. As seis mecânicas usam as mesmas 70 situações sob perspectivas diferentes; não são 420 histórias independentes.
+
+Para publicar: enviar index.html, manifest.webmanifest, sw.js e versao_anterior.html para a RAIZ do repositório GitHub Pages mente-em-acao-jovem. NÃO enviar ZIP diretamente.
+
+Preserva a versão anterior em versao_anterior.html e consulta o progresso local antigo (mente-em-acao-jovem-v1) para exibir as estrelas antigas. O progresso novo usa outra chave.
+
+Privacidade: sem cadastro e sem coleta remota. Progresso salvo localmente no navegador. Não há dados sincronizados entre aparelhos.
+
+O projeto é uma versão funcional ampliada; 420 desafios derivam de 70 cenários e seis mecânicas. Testar todos os percursos antes de distribuir amplamente.
