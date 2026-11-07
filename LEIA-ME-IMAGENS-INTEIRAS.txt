@@ -1,0 +1,1 @@
+Correção visual: as seis imagens originais aparecem por inteiro, sem corte por object-fit:cover. As capas usam background-size:contain e as imagens dos cartões e jogos mantêm a proporção original. Demais arquivos preservados. Teste localmente antes de atualizar GitHub Pages.

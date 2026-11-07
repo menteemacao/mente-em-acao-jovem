@@ -1,0 +1,1 @@
+Novo módulo: natureza.html; quatro jogos de metacognição: metacognicao.html. Seis imagens enviadas pela usuária incorporadas. Preserve a versão publicada até testar todas as páginas. Envie todos os arquivos à raiz do GitHub Pages ao publicar.
