@@ -1,0 +1,1 @@
+Novo som de conclusão: sucesso-suave.wav (original, alegre e ascendente). Substitui o efeito antigo na conclusão das atividades e no teste de áudio. Para atualizar GitHub Pages, envie index.html, sw.js e sucesso-suave.wav à raiz do repositório. Aguarde a publicação e atualize a página. Todos os demais arquivos permanecem iguais.

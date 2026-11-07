@@ -1,0 +1,1 @@
+Versão com ilustração 3D original dentro de aventura-cinematografica.html. 7 mundos x 3 fases. O novo botão aparece na página inicial. Os jogos existentes, pesquisas e imagens anteriores foram preservados. Teste localmente antes de enviar todos os arquivos à raiz do GitHub Pages. A arte é uma imagem estática usada como cenário, não animação 3D em tempo real.

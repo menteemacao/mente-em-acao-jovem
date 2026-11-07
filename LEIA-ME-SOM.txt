@@ -1,0 +1,1 @@
+CORREÇÃO DE SOM: arquivos de áudio também estão na raiz do ZIP. Ao atualizar o GitHub, envie index.html, sw.js e todos os MP3/WAV na raiz do repositório. O botão Ativar sons reproduz um teste. Se o som não sair, verifique volume do dispositivo e permissões do navegador.
