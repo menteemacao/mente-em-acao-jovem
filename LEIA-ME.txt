@@ -1,0 +1,3 @@
+VERSÃO 3D INTEGRADA — TESTE PRIMEIRO NO COMPUTADOR.
+Abra index.html. Para publicar, envie TODOS os arquivos deste ZIP à raiz do repositório GitHub, incluindo imagens JPG, manifest e sw.js. Preserve a URL existente.
+As ilustrações 3D são imagens estáticas incorporadas; não são modelos 3D navegáveis. As sete aventuras e 420 desafios anteriores permanecem.

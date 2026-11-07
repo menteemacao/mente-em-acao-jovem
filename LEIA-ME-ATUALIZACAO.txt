@@ -1,0 +1,1 @@
+Atualização: imagens reais nos ícones dos sete módulos e sala de jogos; mantidos cenários 3D, biblioteca científica e sons. Teste index.html antes de publicar. Para atualizar GitHub Pages envie TODOS os arquivos, inclusive as imagens .jpg e icone-modulo-*.webp, ciencia.html, sw.js e a pasta sons. Não envie apenas index.html.

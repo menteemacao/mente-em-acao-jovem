@@ -1,10 +1,1 @@
-{
-  "name": "Mente em Ação Jovem — Expedição 420",
-  "short_name": "Mente Jovem",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#10132b",
-  "theme_color": "#11142e",
-  "description": "Sete módulos, 420 desafios educativos."
-}
+{"name":"Mente em Ação Jovem — Expedição 420","short_name":"Mente Jovem","start_url":"./","display":"standalone","background_color":"#10132b","theme_color":"#19143e","lang":"pt-BR"}
