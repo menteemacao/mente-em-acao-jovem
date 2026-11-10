@@ -1,0 +1,5 @@
+MÓDULO NOVO: orientacao-profissional.html
+Publique todos os arquivos deste ZIP na raiz do repositório, preservando os arquivos existentes.
+As quatro imagens carreira-*.png devem permanecer junto ao HTML.
+A página inicial index.html inclui acesso ao módulo.
+Não exclua outros arquivos de áudio, imagens ou módulos que já estejam no repositório.
