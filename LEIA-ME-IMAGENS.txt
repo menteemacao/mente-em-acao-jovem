@@ -1,0 +1,1 @@
+Atualização: imagens originais enviadas foram adicionadas ao pacote. Extraia o ZIP e publique todos os arquivos juntos na raiz do repositório GitHub Pages. Alguns recursos de imagens de ícones e do módulo de neurociência (imagens/cerebro-luminoso.png) não foram fornecidos e continuam pendentes. Não exclua os demais arquivos existentes do repositório.

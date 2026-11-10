@@ -1,0 +1,7 @@
+Mente em Ação Jovem — atualização das brincadeiras
+
+A capa e os módulos principais foram preservados.
+Quatro páginas de brincadeiras foram reorganizadas no mesmo modelo do Laboratório da Mente: seis brincadeiras por módulo, três fases por brincadeira, imagens sem cortes, botões claros e explicações imediatas.
+O Laboratório da Mente original continua disponível, com mais seis brincadeiras no arquivo metacognicao-extra.html.
+As versões anteriores das quatro páginas modificadas estão nos arquivos *-original.html.
+Para publicar no GitHub Pages, envie todos os arquivos deste ZIP à raiz do repositório.
