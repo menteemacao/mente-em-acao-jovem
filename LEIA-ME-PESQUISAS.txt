@@ -1,0 +1,1 @@
+Atualização incremental: acrescentada pesquisas-cientificas.html e cinco imagens aprovadas. O módulo de carreira e os demais arquivos foram preservados. Envie TODOS os arquivos do ZIP à raiz do repositório, substituindo index.html quando solicitado. Não exclua outros arquivos do repositório.

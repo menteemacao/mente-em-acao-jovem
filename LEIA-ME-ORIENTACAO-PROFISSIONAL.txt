@@ -1,5 +1,1 @@
-MÓDULO NOVO: orientacao-profissional.html
-Publique todos os arquivos deste ZIP na raiz do repositório, preservando os arquivos existentes.
-As quatro imagens carreira-*.png devem permanecer junto ao HTML.
-A página inicial index.html inclui acesso ao módulo.
-Não exclua outros arquivos de áudio, imagens ou módulos que já estejam no repositório.
+VERSÃO AMPLIADA: 6 jornadas, 18 fases de reflexão, pesquisas com links e diário 'O que faz meu coração cantar?'. As respostas são salvas localmente no navegador, quando disponível. Publique todos os arquivos na raiz sem excluir os demais.
