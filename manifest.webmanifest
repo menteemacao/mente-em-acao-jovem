@@ -1,9 +1,1 @@
-{
-  "name": "Mente em Ação Jovem",
-  "short_name": "Mente em Ação",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#10132b",
-  "theme_color": "#11142e",
-  "lang": "pt-BR"
-}
+{"name":"Mente em Ação Jovem — Expedição 420","short_name":"Mente Jovem","start_url":"./","display":"standalone","background_color":"#10132b","theme_color":"#19143e","lang":"pt-BR"}
